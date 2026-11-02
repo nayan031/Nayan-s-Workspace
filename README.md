@@ -1,6 +1,6 @@
 Hello! My name is Nayan Gurnule.I have completed my B.Tech in Electronics Engineering and I'm interested in software development. I like learning new things and working on projects.
 
-##💻Tech-Skill
+## 💻Tech-Skill
 Java |
 SQL |
 JDBC |
