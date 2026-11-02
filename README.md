@@ -6,7 +6,6 @@ SQL
 JDBC
 Spring Boot
 MySQL
-HTML & CSS
 Git & GitHub
 
 ## 📖Currently Learning
